@@ -1,7 +1,7 @@
 apiVersion: skaffold/v3
 kind: Config
 metadata:
-  name: hello-gin
+  name: hello-gin2
 
 deploy:
   kubectl: {}
